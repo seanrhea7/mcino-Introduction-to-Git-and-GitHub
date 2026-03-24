@@ -1,0 +1,5 @@
+theia@theia-seanrhea7:/home/project/mcino-Introdu
+ction-to-Git-and-GitHub$ git branch -vv
+* bug-fix-revert 43b57aa [origin/bug-fix-revert] Revert "changed date in readme for copyright from 2022 to 2023"
+  bug-fix-typo   c381647 [origin/bug-fix-typo] changed date in readme for copyright from 2022 to 2023
+  main           43b57aa [origin/main: ahead 3, behind 1] Revert "changed date in readme for copyright from 2022 to 2023"
